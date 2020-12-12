@@ -10,7 +10,7 @@ The data is was collected from, and at the time of this publishing, is freely av
 #### About the Technology
 
 #### DATA EXPLORATION
-These data_exp notebook does the following:
+These *data_exp* notebook does the following tasks:
 1. An assessment on the quality of the data set. The data came already pre-cleaned so no missing values were expected as demonstrated.
 2. Feature importance.
 3. Value distribution of the features of the data set.
